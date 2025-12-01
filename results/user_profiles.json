@@ -1,0 +1,5742 @@
+[
+  {
+    "user_id": "user_0000",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.7745071229516849,
+    "pref_entropy": 0.8292603548243223,
+    "pref_scale": 0.6971532807151039,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0001",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.8151152093729362,
+    "pref_scale": 0.8295788421097572,
+    "pref_groove": 0.8813840065378947
+  },
+  {
+    "user_id": "user_0002",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.24126232512304507,
+    "pref_entropy": 0.5656568706138542,
+    "pref_scale": 0.5980753319498364,
+    "pref_groove": 0.9471370998892911
+  },
+  {
+    "user_id": "user_0003",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.4101292307031886,
+    "pref_entropy": 0.3862877720679815,
+    "pref_scale": 0.8183425913212227,
+    "pref_groove": 0.8666383884564799
+  },
+  {
+    "user_id": "user_0004",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.30990419651217926,
+    "pref_entropy": 0.5562459375310085,
+    "pref_scale": 0.8097440081655904,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0005",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.4233817368154783,
+    "pref_entropy": 0.3168734525043467,
+    "pref_scale": 0.8813295392507133,
+    "pref_groove": 0.6560494814180337
+  },
+  {
+    "user_id": "user_0006",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.8107699869993115,
+    "pref_entropy": 0.8757052421784955,
+    "pref_scale": 0.5826527576417639,
+    "pref_groove": 0.8548344456616067
+  },
+  {
+    "user_id": "user_0007",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.9515427434352692,
+    "pref_entropy": 0.53554397669559,
+    "pref_scale": 0.7486125954092192,
+    "pref_groove": 0.6922376579375525
+  },
+  {
+    "user_id": "user_0008",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.8546499283743926,
+    "pref_entropy": 0.9896920178674298,
+    "pref_scale": 0.4741173715166042,
+    "pref_groove": 0.8536181436223178
+  },
+  {
+    "user_id": "user_0009",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.33404975389909575,
+    "pref_entropy": 0.4205690063878994,
+    "pref_scale": 0.9218788733591298,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0010",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.554209340826262,
+    "pref_entropy": 0.9307054849698954,
+    "pref_scale": 0.7446260941335072,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0011",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.8130570602357258,
+    "pref_entropy": 0.6551488974301198,
+    "pref_scale": 0.9137641164803254,
+    "pref_groove": 0.5018646628098662
+  },
+  {
+    "user_id": "user_0012",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.6787259595660219,
+    "pref_entropy": 0.6247364434623195,
+    "pref_scale": 1.0,
+    "pref_groove": 0.8493126664489528
+  },
+  {
+    "user_id": "user_0013",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.5946920359183971,
+    "pref_entropy": 0.8008506780103347,
+    "pref_scale": 0.5411837770301764,
+    "pref_groove": 0.6804727577801822
+  },
+  {
+    "user_id": "user_0014",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.1876943886924379,
+    "pref_entropy": 0.5369032015851961,
+    "pref_scale": 0.8485928225209846,
+    "pref_groove": 0.7296584096167571
+  },
+  {
+    "user_id": "user_0015",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.4386325586084146,
+    "pref_entropy": 0.5888331126350749,
+    "pref_scale": 0.6121843177051438,
+    "pref_groove": 0.8460229186826175
+  },
+  {
+    "user_id": "user_0016",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.8711458552828316,
+    "pref_entropy": 0.8452321013500419,
+    "pref_scale": 0.6947932345442135,
+    "pref_groove": 0.5746982943570702
+  },
+  {
+    "user_id": "user_0017",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.7104191466404148,
+    "pref_entropy": 0.38972234058115784,
+    "pref_scale": 0.8880285640700406,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0018",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.5674004853400801,
+    "pref_entropy": 0.710284446220904,
+    "pref_scale": 0.7406544429410843,
+    "pref_groove": 0.8710388645952772
+  },
+  {
+    "user_id": "user_0019",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.7825120061495645,
+    "pref_entropy": 0.7516907725691487,
+    "pref_scale": 0.8220275826054504,
+    "pref_groove": 0.5653703525349068
+  },
+  {
+    "user_id": "user_0020",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.43898241913726355,
+    "pref_entropy": 0.7172734307665964,
+    "pref_scale": 0.7144573933682877,
+    "pref_groove": 0.6519315080373586
+  },
+  {
+    "user_id": "user_0021",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.7979962917632264,
+    "pref_entropy": 0.8348380545741506,
+    "pref_scale": 0.7439608709948021,
+    "pref_groove": 0.6428472872960448
+  },
+  {
+    "user_id": "user_0022",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.3537977494659018,
+    "pref_entropy": 0.8180626905613677,
+    "pref_scale": 0.9237893368511106,
+    "pref_groove": 0.7268976522472435
+  },
+  {
+    "user_id": "user_0023",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.36319178259956947,
+    "pref_entropy": 0.48693957534637655,
+    "pref_scale": 0.7665728355561715,
+    "pref_groove": 0.7276284572551842
+  },
+  {
+    "user_id": "user_0024",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.20195028378168606,
+    "pref_entropy": 0.6180301115735976,
+    "pref_scale": 0.9103014750143066,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0025",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.33936612529083315,
+    "pref_entropy": 0.6723708622864778,
+    "pref_scale": 0.7664805822011225,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0026",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.37298094228973927,
+    "pref_entropy": 0.4227729162971203,
+    "pref_scale": 0.6830227571899469,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0027",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.6674213845698301,
+    "pref_entropy": 0.7230587658918292,
+    "pref_scale": 0.9087313077669,
+    "pref_groove": 0.6285544553254065
+  },
+  {
+    "user_id": "user_0028",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.09334959480643634,
+    "pref_entropy": 0.3593262440127316,
+    "pref_scale": 0.9272552900812989,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0029",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.6431002645239803,
+    "pref_entropy": 0.7977086876958697,
+    "pref_scale": 0.7027096133039482,
+    "pref_groove": 0.96384538307399
+  },
+  {
+    "user_id": "user_0030",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.9471987850010263,
+    "pref_entropy": 0.46991022111123776,
+    "pref_scale": 0.802939028556177,
+    "pref_groove": 0.7080926193215522
+  },
+  {
+    "user_id": "user_0031",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.39270444361100476,
+    "pref_entropy": 0.7519396623402014,
+    "pref_scale": 0.6404450052424295,
+    "pref_groove": 0.9324687884372962
+  },
+  {
+    "user_id": "user_0032",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.0,
+    "pref_entropy": 0.5279681472154142,
+    "pref_scale": 0.7507320302847418,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0033",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.47574809184706857,
+    "pref_entropy": 0.7298632791255182,
+    "pref_scale": 0.7199555389416336,
+    "pref_groove": 0.7998248146238577
+  },
+  {
+    "user_id": "user_0034",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.4108674068497432,
+    "pref_entropy": 0.8876792920582164,
+    "pref_scale": 1.0,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0035",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.7665729142219342,
+    "pref_entropy": 0.9661951080144005,
+    "pref_scale": 0.4609604292632875,
+    "pref_groove": 0.89107119659073
+  },
+  {
+    "user_id": "user_0036",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.48547879330590504,
+    "pref_entropy": 0.8307381780190437,
+    "pref_scale": 0.530150284311818,
+    "pref_groove": 0.9087763353460266
+  },
+  {
+    "user_id": "user_0037",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.5693155211394906,
+    "pref_entropy": 0.6696313711252673,
+    "pref_scale": 0.759134491067574,
+    "pref_groove": 0.9470744045180566
+  },
+  {
+    "user_id": "user_0038",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.5143276751759727,
+    "pref_entropy": 0.9530272769148956,
+    "pref_scale": 0.6106458623459619,
+    "pref_groove": 0.9658990710155152
+  },
+  {
+    "user_id": "user_0039",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.5065950720269109,
+    "pref_entropy": 0.8827485700779998,
+    "pref_scale": 0.6303205377032548,
+    "pref_groove": 0.8566644252640581
+  },
+  {
+    "user_id": "user_0040",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.6460949281314914,
+    "pref_entropy": 0.6555448714102331,
+    "pref_scale": 0.8315131974928488,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0041",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.5175991074963173,
+    "pref_entropy": 0.49961959077281803,
+    "pref_scale": 0.9742905976620162,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0042",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.5031505762449139,
+    "pref_entropy": 0.6141162803195368,
+    "pref_scale": 0.8780962066601784,
+    "pref_groove": 0.8593439306567187
+  },
+  {
+    "user_id": "user_0043",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.8892735538155371,
+    "pref_entropy": 0.43119323497971773,
+    "pref_scale": 0.8329839732315139,
+    "pref_groove": 0.9807384382667862
+  },
+  {
+    "user_id": "user_0044",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.294251826389642,
+    "pref_entropy": 0.2951280132862124,
+    "pref_scale": 0.9486774430631288,
+    "pref_groove": 0.5864973377054581
+  },
+  {
+    "user_id": "user_0045",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.851792123752051,
+    "pref_entropy": 0.8920762012213137,
+    "pref_scale": 0.9036821182149981,
+    "pref_groove": 0.685004488964616
+  },
+  {
+    "user_id": "user_0046",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.7348074906036454,
+    "pref_entropy": 1.0,
+    "pref_scale": 0.5283927404137019,
+    "pref_groove": 0.8003658835043366
+  },
+  {
+    "user_id": "user_0047",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.7213034325424328,
+    "pref_entropy": 0.6546513636885538,
+    "pref_scale": 0.7493155756514556,
+    "pref_groove": 0.7476486098319769
+  },
+  {
+    "user_id": "user_0048",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.5759153584671515,
+    "pref_entropy": 0.9239029725700607,
+    "pref_scale": 0.6133309509197615,
+    "pref_groove": 0.6831585041291877
+  },
+  {
+    "user_id": "user_0049",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.9018888601172692,
+    "pref_entropy": 0.8710441081591347,
+    "pref_scale": 0.7081525866907856,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0050",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.38489786556679256,
+    "pref_entropy": 0.6333602096555735,
+    "pref_scale": 0.8964463689721653,
+    "pref_groove": 0.6820725811391459
+  },
+  {
+    "user_id": "user_0051",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.4211367467478858,
+    "pref_entropy": 0.31309402244036716,
+    "pref_scale": 0.8543714688207954,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0052",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.8747188148781531,
+    "pref_entropy": 0.738958332631214,
+    "pref_scale": 0.6576668216519183,
+    "pref_groove": 0.9943216286634775
+  },
+  {
+    "user_id": "user_0053",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.6856724467960192,
+    "pref_entropy": 0.5837057003866717,
+    "pref_scale": 0.791677256255349,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0054",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.4070470890647113,
+    "pref_entropy": 0.5530464437675339,
+    "pref_scale": 0.6601314791193776,
+    "pref_groove": 0.6447114826687215
+  },
+  {
+    "user_id": "user_0055",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.8916515232847764,
+    "pref_entropy": 0.8863500529124668,
+    "pref_scale": 0.9071098381695356,
+    "pref_groove": 0.9172292202320843
+  },
+  {
+    "user_id": "user_0056",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.5469425129106767,
+    "pref_scale": 0.8596358343106575,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0057",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.13618907703653288,
+    "pref_entropy": 0.7329095340369229,
+    "pref_scale": 0.879438326843722,
+    "pref_groove": 0.8800201628760134
+  },
+  {
+    "user_id": "user_0058",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.2929847812677663,
+    "pref_entropy": 0.6477922612047595,
+    "pref_scale": 0.869460814454449,
+    "pref_groove": 0.8577922340173371
+  },
+  {
+    "user_id": "user_0059",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.7549897369145272,
+    "pref_entropy": 0.7090180320508968,
+    "pref_scale": 0.522919962399496,
+    "pref_groove": 0.7411179717166573
+  },
+  {
+    "user_id": "user_0060",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.32046135724413394,
+    "pref_entropy": 0.48106907516064834,
+    "pref_scale": 0.8839454460068163,
+    "pref_groove": 0.6947136516370939
+  },
+  {
+    "user_id": "user_0061",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.5950411738011121,
+    "pref_entropy": 0.8820969866101332,
+    "pref_scale": 0.5831507925463756,
+    "pref_groove": 0.8668545600700166
+  },
+  {
+    "user_id": "user_0062",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.4587422454272534,
+    "pref_entropy": 0.3547118252896622,
+    "pref_scale": 0.5227213406702171,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0063",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.5864835444583649,
+    "pref_entropy": 0.6966875231815305,
+    "pref_scale": 1.0,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0064",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.08654738820735451,
+    "pref_entropy": 0.1866619435603489,
+    "pref_scale": 0.853014067363621,
+    "pref_groove": 0.7377677994578408
+  },
+  {
+    "user_id": "user_0065",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.6116052461471427,
+    "pref_entropy": 0.6208073698007605,
+    "pref_scale": 0.9284686115904486,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0066",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.4389266321297462,
+    "pref_entropy": 0.7864124960705196,
+    "pref_scale": 0.6402148639271288,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0067",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.607278244191724,
+    "pref_entropy": 0.6253574825383443,
+    "pref_scale": 0.7405685238669758,
+    "pref_groove": 0.9424642835826295
+  },
+  {
+    "user_id": "user_0068",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.51348430041475,
+    "pref_entropy": 0.8633086838738634,
+    "pref_scale": 0.775137578143657,
+    "pref_groove": 0.8033667132802174
+  },
+  {
+    "user_id": "user_0069",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.300606436158123,
+    "pref_entropy": 0.6855898002889739,
+    "pref_scale": 0.7855111265186225,
+    "pref_groove": 0.5792676849003222
+  },
+  {
+    "user_id": "user_0070",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.5957888688166061,
+    "pref_entropy": 0.4007719906596561,
+    "pref_scale": 0.7400880302029025,
+    "pref_groove": 0.7183475700356315
+  },
+  {
+    "user_id": "user_0071",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.850943921382166,
+    "pref_entropy": 0.7634662195715277,
+    "pref_scale": 0.7253538168097713,
+    "pref_groove": 0.7305439718013573
+  },
+  {
+    "user_id": "user_0072",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.586560819077081,
+    "pref_entropy": 0.5695431920935511,
+    "pref_scale": 0.8556718810056964,
+    "pref_groove": 0.8894022219926269
+  },
+  {
+    "user_id": "user_0073",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.3506403993112803,
+    "pref_entropy": 0.4382184550816299,
+    "pref_scale": 0.7768590663891259,
+    "pref_groove": 0.8851162718270569
+  },
+  {
+    "user_id": "user_0074",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.7510964701748238,
+    "pref_scale": 0.8801820883245917,
+    "pref_groove": 0.6887886940467673
+  },
+  {
+    "user_id": "user_0075",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.40276275687843277,
+    "pref_entropy": 0.8514655968412923,
+    "pref_scale": 0.9490391060646244,
+    "pref_groove": 0.8171349206786703
+  },
+  {
+    "user_id": "user_0076",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.07821206313302376,
+    "pref_entropy": 0.6715631064810393,
+    "pref_scale": 0.9007744611241622,
+    "pref_groove": 0.8877068129148797
+  },
+  {
+    "user_id": "user_0077",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.1310958650689634,
+    "pref_entropy": 0.27252334458028127,
+    "pref_scale": 1.0,
+    "pref_groove": 0.7715874261136699
+  },
+  {
+    "user_id": "user_0078",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.6556309916386849,
+    "pref_entropy": 0.6234975401717879,
+    "pref_scale": 0.7095187597059943,
+    "pref_groove": 0.7031854426326538
+  },
+  {
+    "user_id": "user_0079",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.630440888015849,
+    "pref_entropy": 0.8533456788207426,
+    "pref_scale": 0.8120152354835551,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0080",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.6331919626643583,
+    "pref_entropy": 1.0,
+    "pref_scale": 0.7981548484531086,
+    "pref_groove": 0.7416622993634318
+  },
+  {
+    "user_id": "user_0081",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.416409219190734,
+    "pref_entropy": 0.7088649935848038,
+    "pref_scale": 0.972151384760507,
+    "pref_groove": 0.8835826036418697
+  },
+  {
+    "user_id": "user_0082",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.8389779939959096,
+    "pref_entropy": 0.6733176485353222,
+    "pref_scale": 0.5515592769612128,
+    "pref_groove": 0.9311319619850528
+  },
+  {
+    "user_id": "user_0083",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.7762988152131516,
+    "pref_entropy": 0.6359678395078869,
+    "pref_scale": 0.7481843437109749,
+    "pref_groove": 0.5517714992201346
+  },
+  {
+    "user_id": "user_0084",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.3496322951064808,
+    "pref_entropy": 0.8503532287934089,
+    "pref_scale": 0.8610612972954593,
+    "pref_groove": 0.624528557032284
+  },
+  {
+    "user_id": "user_0085",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.7653598204686983,
+    "pref_entropy": 0.8044309547220128,
+    "pref_scale": 1.0,
+    "pref_groove": 0.9689847544321637
+  },
+  {
+    "user_id": "user_0086",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.6088827651021732,
+    "pref_entropy": 0.6326184442148279,
+    "pref_scale": 0.8011420703120162,
+    "pref_groove": 0.9327733970775465
+  },
+  {
+    "user_id": "user_0087",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.4184862843299353,
+    "pref_entropy": 0.9082873403560432,
+    "pref_scale": 0.3510972964425941,
+    "pref_groove": 0.5382435017621585
+  },
+  {
+    "user_id": "user_0088",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.4442838701006313,
+    "pref_entropy": 0.6275183049856308,
+    "pref_scale": 0.8291647141397491,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0089",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.8907332642491238,
+    "pref_entropy": 0.7443294844810705,
+    "pref_scale": 0.4907527275078171,
+    "pref_groove": 0.9148118666456002
+  },
+  {
+    "user_id": "user_0090",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.5069497645258583,
+    "pref_entropy": 0.7220795862185407,
+    "pref_scale": 0.7589379338148147,
+    "pref_groove": 0.8851978007732629
+  },
+  {
+    "user_id": "user_0091",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.5923903410416396,
+    "pref_entropy": 0.34953312418974,
+    "pref_scale": 1.0,
+    "pref_groove": 0.7937748153576316
+  },
+  {
+    "user_id": "user_0092",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.690901492701846,
+    "pref_entropy": 0.937004210479438,
+    "pref_scale": 0.3745183469438712,
+    "pref_groove": 0.6869795875624005
+  },
+  {
+    "user_id": "user_0093",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.45987041715281063,
+    "pref_entropy": 0.7457734035259103,
+    "pref_scale": 0.895356262404514,
+    "pref_groove": 0.7996427390670143
+  },
+  {
+    "user_id": "user_0094",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.0,
+    "pref_entropy": 0.3065718245348075,
+    "pref_scale": 0.8872785448986091,
+    "pref_groove": 0.7067328930364013
+  },
+  {
+    "user_id": "user_0095",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.3532440833577452,
+    "pref_entropy": 1.0,
+    "pref_scale": 0.8576387369689575,
+    "pref_groove": 0.7796278419707598
+  },
+  {
+    "user_id": "user_0096",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.34740364759182707,
+    "pref_entropy": 0.24943631626549442,
+    "pref_scale": 1.0,
+    "pref_groove": 0.8762847764894702
+  },
+  {
+    "user_id": "user_0097",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.3039136575316251,
+    "pref_entropy": 0.44779803705547416,
+    "pref_scale": 0.8797837544344438,
+    "pref_groove": 0.7348452549261731
+  },
+  {
+    "user_id": "user_0098",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.29724730915754993,
+    "pref_entropy": 0.7360950438802514,
+    "pref_scale": 0.48696394231369694,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0099",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.4050464819113487,
+    "pref_entropy": 0.5911350296497038,
+    "pref_scale": 0.6221230025520734,
+    "pref_groove": 0.9491995293745005
+  },
+  {
+    "user_id": "user_0100",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.29452353623111693,
+    "pref_entropy": 0.6269768128092088,
+    "pref_scale": 0.8497721591435831,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0101",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.8156299836158599,
+    "pref_entropy": 0.6368328597107358,
+    "pref_scale": 0.8394223761017154,
+    "pref_groove": 0.485569960669344
+  },
+  {
+    "user_id": "user_0102",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.9931008146326017,
+    "pref_entropy": 0.959685301704005,
+    "pref_scale": 0.7179408503330604,
+    "pref_groove": 0.8725047776570355
+  },
+  {
+    "user_id": "user_0103",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.5688770118842655,
+    "pref_entropy": 0.4210172207453381,
+    "pref_scale": 0.7413142638993323,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0104",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.6579729279999356,
+    "pref_entropy": 0.7693604156302714,
+    "pref_scale": 0.7879376339436511,
+    "pref_groove": 0.910182472639392
+  },
+  {
+    "user_id": "user_0105",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.4306587066942436,
+    "pref_entropy": 0.5436272688659292,
+    "pref_scale": 0.9416890243857248,
+    "pref_groove": 0.8108459120129806
+  },
+  {
+    "user_id": "user_0106",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.5294832164767362,
+    "pref_entropy": 0.7301647536256333,
+    "pref_scale": 0.8424548308092825,
+    "pref_groove": 0.7775804642861714
+  },
+  {
+    "user_id": "user_0107",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.6598220562598027,
+    "pref_entropy": 0.8834756425887185,
+    "pref_scale": 0.6474852314804815,
+    "pref_groove": 0.7735213633750038
+  },
+  {
+    "user_id": "user_0108",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.8180076715676551,
+    "pref_entropy": 0.6191054058943484,
+    "pref_scale": 0.8190486912970529,
+    "pref_groove": 0.9049459267867057
+  },
+  {
+    "user_id": "user_0109",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.28483036523438077,
+    "pref_entropy": 0.30994825483386595,
+    "pref_scale": 0.7188906252530438,
+    "pref_groove": 0.6894132880484248
+  },
+  {
+    "user_id": "user_0110",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.26790167336617365,
+    "pref_entropy": 0.8464584133109281,
+    "pref_scale": 0.7504154629680001,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0111",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.8203504567497274,
+    "pref_entropy": 0.8833065225210363,
+    "pref_scale": 0.6065694255365074,
+    "pref_groove": 0.6756046430510294
+  },
+  {
+    "user_id": "user_0112",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.11438805593757857,
+    "pref_entropy": 0.4515427884302826,
+    "pref_scale": 0.89351710234666,
+    "pref_groove": 0.7942183895505328
+  },
+  {
+    "user_id": "user_0113",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.9693816509643283,
+    "pref_entropy": 0.7956197462350956,
+    "pref_scale": 0.6875700564234436,
+    "pref_groove": 0.9815248654184012
+  },
+  {
+    "user_id": "user_0114",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.680255413319232,
+    "pref_entropy": 0.832615125483877,
+    "pref_scale": 0.7573974312892009,
+    "pref_groove": 0.6738636802928217
+  },
+  {
+    "user_id": "user_0115",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.7335681927458347,
+    "pref_entropy": 0.3278786756859874,
+    "pref_scale": 0.46946651367847325,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0116",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.577006098860405,
+    "pref_entropy": 0.5360034106527569,
+    "pref_scale": 0.8958331480565888,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0117",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.37609110466609463,
+    "pref_entropy": 0.6512781237167873,
+    "pref_scale": 1.0,
+    "pref_groove": 0.8526213012644481
+  },
+  {
+    "user_id": "user_0118",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.5220070529649984,
+    "pref_entropy": 0.596568951837945,
+    "pref_scale": 0.8242433276342288,
+    "pref_groove": 0.9127378832179001
+  },
+  {
+    "user_id": "user_0119",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.5069654822234223,
+    "pref_entropy": 0.7129956403616473,
+    "pref_scale": 0.5974627382085763,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0120",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.9366179919645211,
+    "pref_entropy": 1.0,
+    "pref_scale": 0.3837758627904577,
+    "pref_groove": 0.9263318744835762
+  },
+  {
+    "user_id": "user_0121",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.346022705088341,
+    "pref_entropy": 0.42850616485289406,
+    "pref_scale": 0.8947522441594844,
+    "pref_groove": 0.7779802198456224
+  },
+  {
+    "user_id": "user_0122",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.5565817812596782,
+    "pref_entropy": 0.6803442389501506,
+    "pref_scale": 0.4447139639061744,
+    "pref_groove": 0.9598185410999608
+  },
+  {
+    "user_id": "user_0123",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.1701791065069877,
+    "pref_entropy": 0.6972954502081441,
+    "pref_scale": 0.9480963348884939,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0124",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.18512362043309258,
+    "pref_entropy": 0.2159110328618714,
+    "pref_scale": 1.0,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0125",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.8758252715917237,
+    "pref_scale": 0.6956612673737694,
+    "pref_groove": 0.7904504036095606
+  },
+  {
+    "user_id": "user_0126",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.5671562840025972,
+    "pref_entropy": 0.5083446833685421,
+    "pref_scale": 0.7984868644363469,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0127",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.6888751388048446,
+    "pref_scale": 0.6978566452915046,
+    "pref_groove": 0.5112893028755567
+  },
+  {
+    "user_id": "user_0128",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.5165688903581704,
+    "pref_entropy": 0.6740447681954623,
+    "pref_scale": 0.7967760464849591,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0129",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.7638186342677447,
+    "pref_entropy": 0.8463734534352805,
+    "pref_scale": 0.514349292054064,
+    "pref_groove": 0.8605017146079055
+  },
+  {
+    "user_id": "user_0130",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.7262452966211187,
+    "pref_entropy": 0.8787333167995927,
+    "pref_scale": 0.967243763563805,
+    "pref_groove": 0.6185521998038728
+  },
+  {
+    "user_id": "user_0131",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.4578349560671068,
+    "pref_entropy": 0.7983324105963527,
+    "pref_scale": 0.8434964709981906,
+    "pref_groove": 0.8259805775453977
+  },
+  {
+    "user_id": "user_0132",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.7386950524369154,
+    "pref_entropy": 1.0,
+    "pref_scale": 0.7536888593037653,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0133",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.6197147182659147,
+    "pref_entropy": 0.8671800049323196,
+    "pref_scale": 0.7425218206498247,
+    "pref_groove": 0.8703070310147505
+  },
+  {
+    "user_id": "user_0134",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.5296866175193972,
+    "pref_entropy": 0.4952635629694764,
+    "pref_scale": 0.670605264368067,
+    "pref_groove": 0.9928029821771859
+  },
+  {
+    "user_id": "user_0135",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.5654485504511049,
+    "pref_entropy": 0.5308259169248041,
+    "pref_scale": 0.8346416082040105,
+    "pref_groove": 0.7746616425708814
+  },
+  {
+    "user_id": "user_0136",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.049712388918361494,
+    "pref_entropy": 0.6399318626492932,
+    "pref_scale": 0.9809737822928724,
+    "pref_groove": 0.6703502707536357
+  },
+  {
+    "user_id": "user_0137",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.3570647453918232,
+    "pref_entropy": 0.3841912111844011,
+    "pref_scale": 1.0,
+    "pref_groove": 0.6550571579187026
+  },
+  {
+    "user_id": "user_0138",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.760243825823721,
+    "pref_scale": 0.7971584578377289,
+    "pref_groove": 0.8485700191408918
+  },
+  {
+    "user_id": "user_0139",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.4444078501870841,
+    "pref_entropy": 0.31483603365286966,
+    "pref_scale": 0.7852799743282052,
+    "pref_groove": 0.7266647927841424
+  },
+  {
+    "user_id": "user_0140",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.5666152024265158,
+    "pref_scale": 0.6591406044250286,
+    "pref_groove": 0.4357263715980022
+  },
+  {
+    "user_id": "user_0141",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.23578272585511312,
+    "pref_entropy": 0.3742418763323172,
+    "pref_scale": 0.9280996630801314,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0142",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.9645062470786605,
+    "pref_entropy": 0.7545037307096077,
+    "pref_scale": 0.7569589280410185,
+    "pref_groove": 0.7009678830480522
+  },
+  {
+    "user_id": "user_0143",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.7077918828710948,
+    "pref_entropy": 0.8303626040845375,
+    "pref_scale": 0.4447567703201801,
+    "pref_groove": 0.8715008419226431
+  },
+  {
+    "user_id": "user_0144",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.5519732713846989,
+    "pref_entropy": 0.33486217078221236,
+    "pref_scale": 1.0,
+    "pref_groove": 0.7693299353943726
+  },
+  {
+    "user_id": "user_0145",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.7440141109311704,
+    "pref_entropy": 0.8414853728892392,
+    "pref_scale": 0.6023929693982365,
+    "pref_groove": 0.9109631018115469
+  },
+  {
+    "user_id": "user_0146",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.5743522831958907,
+    "pref_entropy": 0.595366854664263,
+    "pref_scale": 1.0,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0147",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.578054545834057,
+    "pref_entropy": 0.4365610352558021,
+    "pref_scale": 1.0,
+    "pref_groove": 0.7342557516374683
+  },
+  {
+    "user_id": "user_0148",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.3493143615455221,
+    "pref_entropy": 0.5510900028649788,
+    "pref_scale": 1.0,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0149",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.41585882772945115,
+    "pref_entropy": 0.8582199410677611,
+    "pref_scale": 0.7953095398322345,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0150",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.30233685713722014,
+    "pref_entropy": 0.3082966124845436,
+    "pref_scale": 0.6034388926617913,
+    "pref_groove": 0.8172254751500228
+  },
+  {
+    "user_id": "user_0151",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.7015365309888753,
+    "pref_entropy": 0.8254540688528029,
+    "pref_scale": 0.5949826190192488,
+    "pref_groove": 0.9134497297524692
+  },
+  {
+    "user_id": "user_0152",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.8512752924737067,
+    "pref_entropy": 0.7318633587270107,
+    "pref_scale": 0.6970096907131285,
+    "pref_groove": 0.5764883662422077
+  },
+  {
+    "user_id": "user_0153",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.8019959613275134,
+    "pref_scale": 0.9863203001241645,
+    "pref_groove": 0.7620971467998554
+  },
+  {
+    "user_id": "user_0154",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.4578987384699839,
+    "pref_entropy": 0.46941410756073654,
+    "pref_scale": 0.6523591437061245,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0155",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.3644249094565234,
+    "pref_entropy": 0.6595014652167431,
+    "pref_scale": 0.4619782426607366,
+    "pref_groove": 0.9298597844963734
+  },
+  {
+    "user_id": "user_0156",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.0,
+    "pref_entropy": 0.42407143104982686,
+    "pref_scale": 0.8094157926749266,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0157",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.7355891688312121,
+    "pref_entropy": 0.8809230093505886,
+    "pref_scale": 0.9575957328820294,
+    "pref_groove": 0.7574087283676199
+  },
+  {
+    "user_id": "user_0158",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.9624365114780409,
+    "pref_entropy": 0.8087015164741854,
+    "pref_scale": 0.7127063980613918,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0159",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.78716131090106,
+    "pref_entropy": 0.7859216192558844,
+    "pref_scale": 0.5826973544638588,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0160",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.5620698646177247,
+    "pref_entropy": 0.8336876656439215,
+    "pref_scale": 0.9935094843448569,
+    "pref_groove": 0.669457805996052
+  },
+  {
+    "user_id": "user_0161",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.7869564006481478,
+    "pref_entropy": 0.6621812721569682,
+    "pref_scale": 0.7841543962010287,
+    "pref_groove": 0.634657175767984
+  },
+  {
+    "user_id": "user_0162",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.5348831075744972,
+    "pref_scale": 0.7933052062859194,
+    "pref_groove": 0.7120153880655923
+  },
+  {
+    "user_id": "user_0163",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.16661565306945594,
+    "pref_entropy": 0.6693939503071653,
+    "pref_scale": 1.0,
+    "pref_groove": 0.6741095114708026
+  },
+  {
+    "user_id": "user_0164",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.5628528514049068,
+    "pref_entropy": 0.6144650578190235,
+    "pref_scale": 0.6978669076941377,
+    "pref_groove": 0.8313961417043445
+  },
+  {
+    "user_id": "user_0165",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.5644138537802815,
+    "pref_entropy": 1.0,
+    "pref_scale": 0.417818476541039,
+    "pref_groove": 0.81991363480248
+  },
+  {
+    "user_id": "user_0166",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.7212575370459857,
+    "pref_entropy": 0.7376231139056305,
+    "pref_scale": 0.63380141305336,
+    "pref_groove": 0.8208796014579216
+  },
+  {
+    "user_id": "user_0167",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.3435053475191876,
+    "pref_entropy": 0.23941084926465972,
+    "pref_scale": 0.8165380847320146,
+    "pref_groove": 0.7943568437713217
+  },
+  {
+    "user_id": "user_0168",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.7761986990368815,
+    "pref_entropy": 1.0,
+    "pref_scale": 0.43028204690213545,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0169",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.8851665520213287,
+    "pref_entropy": 0.8852661509384232,
+    "pref_scale": 0.789939116992224,
+    "pref_groove": 0.6739315409915114
+  },
+  {
+    "user_id": "user_0170",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.1652298027313444,
+    "pref_entropy": 0.5075803723391009,
+    "pref_scale": 0.8755745852560646,
+    "pref_groove": 0.9162280208974968
+  },
+  {
+    "user_id": "user_0171",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.422664944880043,
+    "pref_entropy": 0.402438044793501,
+    "pref_scale": 0.9294539699358164,
+    "pref_groove": 0.5711422049596268
+  },
+  {
+    "user_id": "user_0172",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.1719543045521831,
+    "pref_entropy": 0.47616365054672505,
+    "pref_scale": 0.9580982627668689,
+    "pref_groove": 0.6296386638758675
+  },
+  {
+    "user_id": "user_0173",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.8783868666417577,
+    "pref_entropy": 0.881016906752469,
+    "pref_scale": 0.5076252068317716,
+    "pref_groove": 0.6050224461097511
+  },
+  {
+    "user_id": "user_0174",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.5236089205274927,
+    "pref_entropy": 0.41545264588604863,
+    "pref_scale": 0.7883603265551223,
+    "pref_groove": 0.894916367606751
+  },
+  {
+    "user_id": "user_0175",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.5255624333563231,
+    "pref_entropy": 0.41985520604233123,
+    "pref_scale": 0.8868652873888749,
+    "pref_groove": 0.9749290477643113
+  },
+  {
+    "user_id": "user_0176",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.8662851897160975,
+    "pref_entropy": 0.9811713962691504,
+    "pref_scale": 0.6525024956108157,
+    "pref_groove": 0.8817965264589065
+  },
+  {
+    "user_id": "user_0177",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.11134365617826353,
+    "pref_entropy": 0.7294650339255946,
+    "pref_scale": 0.6805339728410631,
+    "pref_groove": 0.996326844531368
+  },
+  {
+    "user_id": "user_0178",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.5868937249401632,
+    "pref_entropy": 0.40597629875592517,
+    "pref_scale": 1.0,
+    "pref_groove": 0.6710410067634646
+  },
+  {
+    "user_id": "user_0179",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.6567562720213516,
+    "pref_entropy": 0.46877694298858213,
+    "pref_scale": 0.5585439737111997,
+    "pref_groove": 0.8927334838858298
+  },
+  {
+    "user_id": "user_0180",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.5601295270329482,
+    "pref_scale": 0.6389915375430124,
+    "pref_groove": 0.7367486011486357
+  },
+  {
+    "user_id": "user_0181",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.4448938870609738,
+    "pref_entropy": 0.5039259847846224,
+    "pref_scale": 0.925259278871287,
+    "pref_groove": 0.6713064791068291
+  },
+  {
+    "user_id": "user_0182",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.5204802996624106,
+    "pref_entropy": 0.6855442123568064,
+    "pref_scale": 0.681776952616732,
+    "pref_groove": 0.7796260900182529
+  },
+  {
+    "user_id": "user_0183",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.40146585815429064,
+    "pref_entropy": 0.6322885513599041,
+    "pref_scale": 0.684591976852518,
+    "pref_groove": 0.892381528916019
+  },
+  {
+    "user_id": "user_0184",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.48648073671458086,
+    "pref_entropy": 0.5621116481451757,
+    "pref_scale": 0.6246306269634074,
+    "pref_groove": 0.9921769343404179
+  },
+  {
+    "user_id": "user_0185",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.5247503517351626,
+    "pref_entropy": 0.6183428035121675,
+    "pref_scale": 1.0,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0186",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.7741185498991491,
+    "pref_entropy": 0.7107835618166507,
+    "pref_scale": 0.5078053489784717,
+    "pref_groove": 0.48934053674230615
+  },
+  {
+    "user_id": "user_0187",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.15847800501666193,
+    "pref_entropy": 0.1989170229994258,
+    "pref_scale": 1.0,
+    "pref_groove": 0.9456189256004714
+  },
+  {
+    "user_id": "user_0188",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.7423869925732449,
+    "pref_entropy": 1.0,
+    "pref_scale": 0.5789935722086643,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0189",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.20547520780662304,
+    "pref_entropy": 0.5858442374946928,
+    "pref_scale": 0.8871160125423313,
+    "pref_groove": 0.9719034138465993
+  },
+  {
+    "user_id": "user_0190",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.40319073651040926,
+    "pref_entropy": 0.9450615128170454,
+    "pref_scale": 1.0,
+    "pref_groove": 0.5651235418126799
+  },
+  {
+    "user_id": "user_0191",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.7571737577324166,
+    "pref_entropy": 0.7566432707513795,
+    "pref_scale": 0.6717134994941184,
+    "pref_groove": 0.8624297941512135
+  },
+  {
+    "user_id": "user_0192",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.47242193186860504,
+    "pref_entropy": 0.7890994249725611,
+    "pref_scale": 0.4899238059587585,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0193",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.7085325643520928,
+    "pref_entropy": 0.48252151517786407,
+    "pref_scale": 0.7340537728157488,
+    "pref_groove": 0.7318715662532727
+  },
+  {
+    "user_id": "user_0194",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.44005457215780963,
+    "pref_entropy": 0.34517262002945315,
+    "pref_scale": 1.0,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0195",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.8271674765316591,
+    "pref_scale": 0.5746356797468637,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0196",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.7009139332238685,
+    "pref_entropy": 0.844639377189441,
+    "pref_scale": 1.0,
+    "pref_groove": 0.7562815679598921
+  },
+  {
+    "user_id": "user_0197",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.4994938313883572,
+    "pref_entropy": 0.7673853080048042,
+    "pref_scale": 0.7026101632886114,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0198",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.3709510811080423,
+    "pref_entropy": 0.4735109093559386,
+    "pref_scale": 0.8797135656551953,
+    "pref_groove": 0.9220089370130025
+  },
+  {
+    "user_id": "user_0199",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.6475581719833293,
+    "pref_scale": 0.9392494459044719,
+    "pref_groove": 0.9721113995287409
+  },
+  {
+    "user_id": "user_0200",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.9314865292408283,
+    "pref_entropy": 0.6383763252868186,
+    "pref_scale": 0.42382942098499243,
+    "pref_groove": 0.820833470363109
+  },
+  {
+    "user_id": "user_0201",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.7778596120551997,
+    "pref_entropy": 0.8549445920729208,
+    "pref_scale": 0.8707582187356563,
+    "pref_groove": 0.744675465561119
+  },
+  {
+    "user_id": "user_0202",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.0,
+    "pref_entropy": 0.6308529562441026,
+    "pref_scale": 0.8432318922230311,
+    "pref_groove": 0.4193076005563808
+  },
+  {
+    "user_id": "user_0203",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.7703161384112536,
+    "pref_entropy": 0.9092964193687725,
+    "pref_scale": 0.5139843267686642,
+    "pref_groove": 0.9530224358923001
+  },
+  {
+    "user_id": "user_0204",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.7694489374734552,
+    "pref_entropy": 0.7532533681632274,
+    "pref_scale": 0.8668330357067248,
+    "pref_groove": 0.6739577854014307
+  },
+  {
+    "user_id": "user_0205",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.5593314598436147,
+    "pref_entropy": 0.6710882951682062,
+    "pref_scale": 0.6978970692613616,
+    "pref_groove": 0.9652466431534265
+  },
+  {
+    "user_id": "user_0206",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.657800866432268,
+    "pref_entropy": 0.8870616066709455,
+    "pref_scale": 0.6130996586873113,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0207",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.8206420983980558,
+    "pref_entropy": 0.633440072405597,
+    "pref_scale": 0.7850583276082154,
+    "pref_groove": 0.5500264034019517
+  },
+  {
+    "user_id": "user_0208",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.2898112634802927,
+    "pref_entropy": 0.47846213444784286,
+    "pref_scale": 0.9300853795846414,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0209",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.5264662332915838,
+    "pref_entropy": 0.5949458241375016,
+    "pref_scale": 0.6258614669026921,
+    "pref_groove": 0.9129215824569562
+  },
+  {
+    "user_id": "user_0210",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.33559022616292933,
+    "pref_entropy": 0.665479363101545,
+    "pref_scale": 0.7948440758114603,
+    "pref_groove": 0.7933859844676232
+  },
+  {
+    "user_id": "user_0211",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.6062314628722277,
+    "pref_entropy": 0.505727270415593,
+    "pref_scale": 0.9903715814159224,
+    "pref_groove": 0.7436449432502942
+  },
+  {
+    "user_id": "user_0212",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.7459289893693106,
+    "pref_scale": 0.776712325139493,
+    "pref_groove": 0.7976207902096635
+  },
+  {
+    "user_id": "user_0213",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.2883244204480797,
+    "pref_entropy": 0.3539829887900786,
+    "pref_scale": 0.8491903935457699,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0214",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.284258303252395,
+    "pref_entropy": 0.6543856222539728,
+    "pref_scale": 1.0,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0215",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.6279160512683329,
+    "pref_entropy": 0.7473860195441666,
+    "pref_scale": 0.8984541304742824,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0216",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.1394527305137005,
+    "pref_entropy": 0.44469733545661777,
+    "pref_scale": 1.0,
+    "pref_groove": 0.8700706990005888
+  },
+  {
+    "user_id": "user_0217",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.6118330833123145,
+    "pref_entropy": 0.6397584067260468,
+    "pref_scale": 0.89324597657567,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0218",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.34785949935197946,
+    "pref_entropy": 0.4049086737311062,
+    "pref_scale": 0.9099627931978518,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0219",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.44702505607839677,
+    "pref_entropy": 0.7406461808269289,
+    "pref_scale": 0.7956289379330133,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0220",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.38228972095133823,
+    "pref_entropy": 0.5863246320665719,
+    "pref_scale": 0.5639925152220746,
+    "pref_groove": 0.775245641171133
+  },
+  {
+    "user_id": "user_0221",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.7820100352302068,
+    "pref_entropy": 0.7652072835401377,
+    "pref_scale": 0.5383937011346375,
+    "pref_groove": 0.8005929342205605
+  },
+  {
+    "user_id": "user_0222",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.9281974077883677,
+    "pref_entropy": 0.8345465197904176,
+    "pref_scale": 0.7837698522251811,
+    "pref_groove": 0.9056925654435669
+  },
+  {
+    "user_id": "user_0223",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.6781519082692345,
+    "pref_entropy": 0.6396899883224993,
+    "pref_scale": 0.8286397016464753,
+    "pref_groove": 0.7736207139271805
+  },
+  {
+    "user_id": "user_0224",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.8908393498587427,
+    "pref_entropy": 0.9043023916044588,
+    "pref_scale": 0.5024876729766914,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0225",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.46381135180721866,
+    "pref_entropy": 0.55505314213523,
+    "pref_scale": 0.7725204174557077,
+    "pref_groove": 0.5942682168801514
+  },
+  {
+    "user_id": "user_0226",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.4864200076543759,
+    "pref_entropy": 0.666720864430704,
+    "pref_scale": 0.8132526702396666,
+    "pref_groove": 0.7847166650799057
+  },
+  {
+    "user_id": "user_0227",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.292305122601958,
+    "pref_entropy": 0.533299413032644,
+    "pref_scale": 0.8709866851017514,
+    "pref_groove": 0.9989070879280427
+  },
+  {
+    "user_id": "user_0228",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.41721999219683237,
+    "pref_scale": 0.8555598834736677,
+    "pref_groove": 0.559043449158623
+  },
+  {
+    "user_id": "user_0229",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.9565920058872888,
+    "pref_entropy": 0.9601457013342245,
+    "pref_scale": 0.5026003032119408,
+    "pref_groove": 0.912468369848502
+  },
+  {
+    "user_id": "user_0230",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.9742817453912286,
+    "pref_entropy": 0.7521295564237112,
+    "pref_scale": 1.0,
+    "pref_groove": 0.8397733290948332
+  },
+  {
+    "user_id": "user_0231",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.6501569138850711,
+    "pref_entropy": 0.4284951395091131,
+    "pref_scale": 0.6468099199744233,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0232",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.7429311820804407,
+    "pref_entropy": 0.933270082877822,
+    "pref_scale": 0.9624371957908748,
+    "pref_groove": 0.7978371684248
+  },
+  {
+    "user_id": "user_0233",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.5735130107025712,
+    "pref_entropy": 0.9136351389567848,
+    "pref_scale": 0.6215008751409347,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0234",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.4291911182855864,
+    "pref_entropy": 0.5340616933452339,
+    "pref_scale": 0.5688373625426146,
+    "pref_groove": 0.8169708059488063
+  },
+  {
+    "user_id": "user_0235",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.5140083945534404,
+    "pref_entropy": 0.5692597443280132,
+    "pref_scale": 0.9010302382408556,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0236",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.4172539118721126,
+    "pref_entropy": 0.48312725221075536,
+    "pref_scale": 0.8708502681869508,
+    "pref_groove": 0.7170669484585891
+  },
+  {
+    "user_id": "user_0237",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.9031967473007914,
+    "pref_entropy": 0.7401332221695875,
+    "pref_scale": 0.6020654841382657,
+    "pref_groove": 0.5433448840324722
+  },
+  {
+    "user_id": "user_0238",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.2763087534844901,
+    "pref_entropy": 0.5381871527365518,
+    "pref_scale": 0.8686441517841806,
+    "pref_groove": 0.9217301496986333
+  },
+  {
+    "user_id": "user_0239",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.16632116618770687,
+    "pref_entropy": 0.3667778156408935,
+    "pref_scale": 0.803967827696894,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0240",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.40249961287648106,
+    "pref_entropy": 0.8839607715805575,
+    "pref_scale": 0.9235644578195938,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0241",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.33498241968952525,
+    "pref_entropy": 0.5572307843883997,
+    "pref_scale": 0.9454894488732744,
+    "pref_groove": 0.9587526506428216
+  },
+  {
+    "user_id": "user_0242",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.46878247140911905,
+    "pref_entropy": 1.0,
+    "pref_scale": 0.6771523235863992,
+    "pref_groove": 0.6060914660863885
+  },
+  {
+    "user_id": "user_0243",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.26407915428075274,
+    "pref_entropy": 0.6760325702262986,
+    "pref_scale": 0.8381789761906826,
+    "pref_groove": 0.7584223941864424
+  },
+  {
+    "user_id": "user_0244",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.3624930228101571,
+    "pref_entropy": 0.32710381070029143,
+    "pref_scale": 0.7960219759145372,
+    "pref_groove": 0.5746513550706944
+  },
+  {
+    "user_id": "user_0245",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.8690057705241374,
+    "pref_entropy": 0.8120117634962185,
+    "pref_scale": 0.41783110788710076,
+    "pref_groove": 0.7553393618082462
+  },
+  {
+    "user_id": "user_0246",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.4093525716184935,
+    "pref_entropy": 0.37740911208447353,
+    "pref_scale": 0.8429369215594024,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0247",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.8111303611270659,
+    "pref_entropy": 1.0,
+    "pref_scale": 0.6306855972022902,
+    "pref_groove": 0.7431044988124282
+  },
+  {
+    "user_id": "user_0248",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.7009633404716407,
+    "pref_entropy": 0.685278178295373,
+    "pref_scale": 0.5457282991151149,
+    "pref_groove": 0.6294327867332733
+  },
+  {
+    "user_id": "user_0249",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.7499270765365985,
+    "pref_entropy": 0.469050022109002,
+    "pref_scale": 0.677058445507456,
+    "pref_groove": 0.8793436904588781
+  },
+  {
+    "user_id": "user_0250",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.7671265970430408,
+    "pref_scale": 0.8841581315708766,
+    "pref_groove": 0.5904896990143573
+  },
+  {
+    "user_id": "user_0251",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.729186413345431,
+    "pref_entropy": 0.7091673414051082,
+    "pref_scale": 0.974092780799058,
+    "pref_groove": 0.9442132528051315
+  },
+  {
+    "user_id": "user_0252",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.5620923112620364,
+    "pref_entropy": 0.8937792643000022,
+    "pref_scale": 0.7349197456722368,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0253",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.38410774685437965,
+    "pref_entropy": 0.37132180700712386,
+    "pref_scale": 0.9361387495934204,
+    "pref_groove": 0.8898829447089
+  },
+  {
+    "user_id": "user_0254",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.24125271488673136,
+    "pref_entropy": 0.4001771877964677,
+    "pref_scale": 0.9809754146040198,
+    "pref_groove": 0.9313073305714805
+  },
+  {
+    "user_id": "user_0255",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.4922909414617271,
+    "pref_entropy": 0.4827915441938965,
+    "pref_scale": 0.6235886114977588,
+    "pref_groove": 0.9459680997693306
+  },
+  {
+    "user_id": "user_0256",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.6706622800489992,
+    "pref_entropy": 0.5790934389982417,
+    "pref_scale": 0.8994653261624763,
+    "pref_groove": 0.962204779309633
+  },
+  {
+    "user_id": "user_0257",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.17730900745197326,
+    "pref_entropy": 0.5748709028812579,
+    "pref_scale": 0.9193317530472163,
+    "pref_groove": 0.8797118511909462
+  },
+  {
+    "user_id": "user_0258",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.42921042920781627,
+    "pref_entropy": 0.8935595460812462,
+    "pref_scale": 0.863787838436969,
+    "pref_groove": 0.9927940545264702
+  },
+  {
+    "user_id": "user_0259",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.2930572752816605,
+    "pref_entropy": 0.5658475130986895,
+    "pref_scale": 0.6474060747301355,
+    "pref_groove": 0.7696579992361883
+  },
+  {
+    "user_id": "user_0260",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.8774267430672438,
+    "pref_entropy": 0.7632069716647123,
+    "pref_scale": 0.8109239756630042,
+    "pref_groove": 0.9045654283862409
+  },
+  {
+    "user_id": "user_0261",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.4605225357474641,
+    "pref_entropy": 0.37696380058269474,
+    "pref_scale": 0.8463958212879094,
+    "pref_groove": 0.7039600041162026
+  },
+  {
+    "user_id": "user_0262",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.45380577055414395,
+    "pref_entropy": 0.7045286180815232,
+    "pref_scale": 0.8412911163535111,
+    "pref_groove": 0.7805096566508751
+  },
+  {
+    "user_id": "user_0263",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.9406355206439838,
+    "pref_entropy": 0.6757953440485704,
+    "pref_scale": 0.7935641560570164,
+    "pref_groove": 0.650295524423042
+  },
+  {
+    "user_id": "user_0264",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.47092607918407947,
+    "pref_entropy": 0.4688810436353699,
+    "pref_scale": 0.7301224980687155,
+    "pref_groove": 0.8618344144897763
+  },
+  {
+    "user_id": "user_0265",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.3036769401321332,
+    "pref_entropy": 0.6511946423970996,
+    "pref_scale": 0.9005564285716017,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0266",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.12625457215519292,
+    "pref_entropy": 0.5265058933235588,
+    "pref_scale": 1.0,
+    "pref_groove": 0.9354872626314297
+  },
+  {
+    "user_id": "user_0267",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.4236554561438752,
+    "pref_entropy": 0.3749988253240351,
+    "pref_scale": 0.745787420161053,
+    "pref_groove": 0.9502858030604923
+  },
+  {
+    "user_id": "user_0268",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.6681546000986707,
+    "pref_entropy": 0.606071495166765,
+    "pref_scale": 0.7523068472058159,
+    "pref_groove": 0.9932644569162214
+  },
+  {
+    "user_id": "user_0269",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.769930467643365,
+    "pref_entropy": 0.7590536900120248,
+    "pref_scale": 0.5833691440232533,
+    "pref_groove": 0.8593027195825373
+  },
+  {
+    "user_id": "user_0270",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.2290384867051317,
+    "pref_entropy": 0.3660608693239373,
+    "pref_scale": 1.0,
+    "pref_groove": 0.8901678589828493
+  },
+  {
+    "user_id": "user_0271",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.4389323103362388,
+    "pref_entropy": 0.5783365521872015,
+    "pref_scale": 0.7275394020848437,
+    "pref_groove": 0.9787260408189096
+  },
+  {
+    "user_id": "user_0272",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.42959735611083943,
+    "pref_entropy": 0.6304954415353612,
+    "pref_scale": 0.8572975446491125,
+    "pref_groove": 0.7842835263634608
+  },
+  {
+    "user_id": "user_0273",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.5901810123393673,
+    "pref_entropy": 0.43377769075853345,
+    "pref_scale": 0.7185821151526387,
+    "pref_groove": 0.6893153614395537
+  },
+  {
+    "user_id": "user_0274",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.6178701301706118,
+    "pref_entropy": 0.5405006760267124,
+    "pref_scale": 0.9723786073242887,
+    "pref_groove": 0.7944114215391322
+  },
+  {
+    "user_id": "user_0275",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.6392214150439768,
+    "pref_entropy": 0.5886990796513539,
+    "pref_scale": 0.8373054744242033,
+    "pref_groove": 0.9911887812940272
+  },
+  {
+    "user_id": "user_0276",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.7464009429883944,
+    "pref_entropy": 0.6288439467212844,
+    "pref_scale": 0.7777665683612345,
+    "pref_groove": 0.8482275745177894
+  },
+  {
+    "user_id": "user_0277",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.7496718816327791,
+    "pref_entropy": 0.5712021364649817,
+    "pref_scale": 0.5299276607369675,
+    "pref_groove": 0.717294618270267
+  },
+  {
+    "user_id": "user_0278",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.9176906431847036,
+    "pref_entropy": 0.7807092580272713,
+    "pref_scale": 0.893747879641516,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0279",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.7077278588561902,
+    "pref_entropy": 0.7143457312965539,
+    "pref_scale": 0.7288352146292846,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0280",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.579871210137134,
+    "pref_entropy": 0.8483003754037004,
+    "pref_scale": 0.6972831352662043,
+    "pref_groove": 0.9005329845916008
+  },
+  {
+    "user_id": "user_0281",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.6757254462829632,
+    "pref_entropy": 0.5885298602848024,
+    "pref_scale": 0.7804495794626727,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0282",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.5346051358578026,
+    "pref_entropy": 0.569140861375804,
+    "pref_scale": 0.7024974996994321,
+    "pref_groove": 0.8806803731798601
+  },
+  {
+    "user_id": "user_0283",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.2836536591087687,
+    "pref_entropy": 0.44885610367198,
+    "pref_scale": 0.8945621706624294,
+    "pref_groove": 0.7052809672418054
+  },
+  {
+    "user_id": "user_0284",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.7113633211628076,
+    "pref_entropy": 0.7605531794328984,
+    "pref_scale": 0.4246433088938469,
+    "pref_groove": 0.7995097501218932
+  },
+  {
+    "user_id": "user_0285",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.8056792872513425,
+    "pref_scale": 0.7876858941924352,
+    "pref_groove": 0.7505704614184782
+  },
+  {
+    "user_id": "user_0286",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.24638318657843591,
+    "pref_entropy": 0.8281474811825029,
+    "pref_scale": 0.5658290396744553,
+    "pref_groove": 0.8654449737413148
+  },
+  {
+    "user_id": "user_0287",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.7600021506148378,
+    "pref_entropy": 0.767179262162769,
+    "pref_scale": 0.9556641076970883,
+    "pref_groove": 0.807194216897232
+  },
+  {
+    "user_id": "user_0288",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.6955238993110785,
+    "pref_entropy": 0.8244116622269594,
+    "pref_scale": 0.7062068578878772,
+    "pref_groove": 0.8323062401977548
+  },
+  {
+    "user_id": "user_0289",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.7028721666123627,
+    "pref_entropy": 0.837266527224647,
+    "pref_scale": 0.4135014107390852,
+    "pref_groove": 0.7557767445516694
+  },
+  {
+    "user_id": "user_0290",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.3708609416820566,
+    "pref_entropy": 0.49904726648406966,
+    "pref_scale": 1.0,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0291",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.790677298953305,
+    "pref_entropy": 0.9204357727522648,
+    "pref_scale": 0.7071155249580139,
+    "pref_groove": 0.8769260959202451
+  },
+  {
+    "user_id": "user_0292",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.4629461448881005,
+    "pref_entropy": 0.4863011666221989,
+    "pref_scale": 0.5650475400553862,
+    "pref_groove": 0.778382829445522
+  },
+  {
+    "user_id": "user_0293",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.8511270534755383,
+    "pref_entropy": 0.9109716215857627,
+    "pref_scale": 0.36305767388911847,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0294",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.2569090870905033,
+    "pref_entropy": 0.6320855802302223,
+    "pref_scale": 0.8715879493527675,
+    "pref_groove": 0.6189628551953384
+  },
+  {
+    "user_id": "user_0295",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.5156533906284819,
+    "pref_entropy": 0.8168910831091245,
+    "pref_scale": 0.7064137345353957,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0296",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.6981866578230917,
+    "pref_entropy": 0.7673918206456734,
+    "pref_scale": 0.4460670541882459,
+    "pref_groove": 0.8450652691022608
+  },
+  {
+    "user_id": "user_0297",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.5298422220194742,
+    "pref_entropy": 0.5282149136975829,
+    "pref_scale": 0.9436591480493015,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0298",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.4479477738878466,
+    "pref_entropy": 0.7035355200570408,
+    "pref_scale": 0.5162447425114347,
+    "pref_groove": 0.7402729894155504
+  },
+  {
+    "user_id": "user_0299",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.3276808947262016,
+    "pref_entropy": 0.5622403977011242,
+    "pref_scale": 0.9700435207788574,
+    "pref_groove": 0.8206554267250439
+  },
+  {
+    "user_id": "user_0300",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.5693091339877845,
+    "pref_entropy": 0.818959781255691,
+    "pref_scale": 0.5419846173578273,
+    "pref_groove": 0.8902361096984659
+  },
+  {
+    "user_id": "user_0301",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.8783771157898637,
+    "pref_entropy": 0.7852720337911897,
+    "pref_scale": 0.9157963981318631,
+    "pref_groove": 0.5617303189373664
+  },
+  {
+    "user_id": "user_0302",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.5375300309377542,
+    "pref_entropy": 0.25362244030727016,
+    "pref_scale": 0.8235580408102177,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0303",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.7746614633637091,
+    "pref_entropy": 0.7866049658917662,
+    "pref_scale": 0.7014897024923771,
+    "pref_groove": 0.8196061281886062
+  },
+  {
+    "user_id": "user_0304",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.6168404755268171,
+    "pref_entropy": 0.7950417310863747,
+    "pref_scale": 0.7631953231579246,
+    "pref_groove": 0.4913088353463777
+  },
+  {
+    "user_id": "user_0305",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.6273653166114717,
+    "pref_entropy": 0.5909566512912582,
+    "pref_scale": 0.8682192754463571,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0306",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.507466053077144,
+    "pref_entropy": 0.8728834774949581,
+    "pref_scale": 0.8059904595822036,
+    "pref_groove": 0.9443084678979388
+  },
+  {
+    "user_id": "user_0307",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.6324288009685235,
+    "pref_scale": 0.5481857671303634,
+    "pref_groove": 0.8064861022708687
+  },
+  {
+    "user_id": "user_0308",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.39510664331991985,
+    "pref_entropy": 0.7604620273261573,
+    "pref_scale": 0.60403532088338,
+    "pref_groove": 0.7996292102591157
+  },
+  {
+    "user_id": "user_0309",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.6669032562484888,
+    "pref_entropy": 0.5472190703210892,
+    "pref_scale": 0.7272666817485031,
+    "pref_groove": 0.7944518175650234
+  },
+  {
+    "user_id": "user_0310",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.5853717430010408,
+    "pref_entropy": 0.6811585145238956,
+    "pref_scale": 0.8769773581566216,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0311",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.4010928470876942,
+    "pref_entropy": 0.7058602692309666,
+    "pref_scale": 0.6207944503220566,
+    "pref_groove": 0.873938657671474
+  },
+  {
+    "user_id": "user_0312",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.3654398928691349,
+    "pref_entropy": 0.46136502835975435,
+    "pref_scale": 1.0,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0313",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.48748430453144587,
+    "pref_entropy": 0.43255321704522054,
+    "pref_scale": 0.6117210280312031,
+    "pref_groove": 0.7494063941877753
+  },
+  {
+    "user_id": "user_0314",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.4179979873119102,
+    "pref_entropy": 0.659251733451092,
+    "pref_scale": 1.0,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0315",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.4217094831737388,
+    "pref_entropy": 0.32776050668710727,
+    "pref_scale": 0.9728166465632291,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0316",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.5827214412859285,
+    "pref_entropy": 0.7010883824600745,
+    "pref_scale": 0.8086043881392216,
+    "pref_groove": 0.7010291807533375
+  },
+  {
+    "user_id": "user_0317",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.0,
+    "pref_entropy": 0.47713821340267526,
+    "pref_scale": 1.0,
+    "pref_groove": 0.8906713474501033
+  },
+  {
+    "user_id": "user_0318",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.5964671773688642,
+    "pref_entropy": 0.7238468613145747,
+    "pref_scale": 0.7337961883061411,
+    "pref_groove": 0.8945709606749962
+  },
+  {
+    "user_id": "user_0319",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.962437585630813,
+    "pref_entropy": 1.0,
+    "pref_scale": 0.4061605957341572,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0320",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.6824351501620406,
+    "pref_entropy": 0.596418842152561,
+    "pref_scale": 0.7625712126778137,
+    "pref_groove": 0.6752266687654334
+  },
+  {
+    "user_id": "user_0321",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.11299201379449357,
+    "pref_entropy": 0.43591067508030656,
+    "pref_scale": 1.0,
+    "pref_groove": 0.9708003406378912
+  },
+  {
+    "user_id": "user_0322",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.630373409658391,
+    "pref_entropy": 0.7330936255900113,
+    "pref_scale": 0.6855070843732128,
+    "pref_groove": 0.9856906753171403
+  },
+  {
+    "user_id": "user_0323",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.3821020951047527,
+    "pref_entropy": 0.39284330952693375,
+    "pref_scale": 0.8455727893407314,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0324",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.609120876886166,
+    "pref_entropy": 1.0,
+    "pref_scale": 0.8988773029752177,
+    "pref_groove": 0.7850015118324979
+  },
+  {
+    "user_id": "user_0325",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.7038082630813615,
+    "pref_entropy": 0.5620490265703515,
+    "pref_scale": 0.5979243380858644,
+    "pref_groove": 0.7965408338903739
+  },
+  {
+    "user_id": "user_0326",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.8581555604502288,
+    "pref_entropy": 0.7580359747256249,
+    "pref_scale": 0.8185557844077567,
+    "pref_groove": 0.8010076941853336
+  },
+  {
+    "user_id": "user_0327",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.23722742101633032,
+    "pref_entropy": 0.4761884205031567,
+    "pref_scale": 1.0,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0328",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.9823325752976046,
+    "pref_entropy": 0.7617566309669453,
+    "pref_scale": 0.6811818609995649,
+    "pref_groove": 0.7991819286239036
+  },
+  {
+    "user_id": "user_0329",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.46553005541372094,
+    "pref_entropy": 0.522289034860953,
+    "pref_scale": 0.7762817128362768,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0330",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.3630141735677762,
+    "pref_entropy": 0.5910275889823506,
+    "pref_scale": 1.0,
+    "pref_groove": 0.7803667347011126
+  },
+  {
+    "user_id": "user_0331",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.5373949779592373,
+    "pref_entropy": 0.705736512864314,
+    "pref_scale": 0.8463725079017064,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0332",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.5935630217876241,
+    "pref_entropy": 0.6612242633986998,
+    "pref_scale": 0.5674474424363444,
+    "pref_groove": 0.8537275817316271
+  },
+  {
+    "user_id": "user_0333",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.19335737488686444,
+    "pref_entropy": 0.5152838993743587,
+    "pref_scale": 1.0,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0334",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.46975609021854503,
+    "pref_entropy": 0.8301943629183652,
+    "pref_scale": 0.3046378391474683,
+    "pref_groove": 0.9505063259895741
+  },
+  {
+    "user_id": "user_0335",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.36118630609106195,
+    "pref_entropy": 0.6883075633511476,
+    "pref_scale": 0.6156980516455464,
+    "pref_groove": 0.8387848741259669
+  },
+  {
+    "user_id": "user_0336",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.30573569924400423,
+    "pref_entropy": 0.28271128780496835,
+    "pref_scale": 0.8050485027989819,
+    "pref_groove": 0.9424693074437382
+  },
+  {
+    "user_id": "user_0337",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.24209546067352047,
+    "pref_entropy": 0.66379307262927,
+    "pref_scale": 1.0,
+    "pref_groove": 0.9583738793501894
+  },
+  {
+    "user_id": "user_0338",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.702112920810185,
+    "pref_entropy": 0.7695529043906515,
+    "pref_scale": 0.579994215340353,
+    "pref_groove": 0.7404713138076967
+  },
+  {
+    "user_id": "user_0339",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.6272646323307927,
+    "pref_entropy": 0.31296659990230924,
+    "pref_scale": 0.6589949557852055,
+    "pref_groove": 0.931692553841921
+  },
+  {
+    "user_id": "user_0340",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.2185170940937189,
+    "pref_entropy": 0.6929567168949204,
+    "pref_scale": 0.7046956416761556,
+    "pref_groove": 0.8015500011364458
+  },
+  {
+    "user_id": "user_0341",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.9912312561918084,
+    "pref_scale": 0.7977282987009258,
+    "pref_groove": 0.5793471494362775
+  },
+  {
+    "user_id": "user_0342",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.6898739301832257,
+    "pref_entropy": 0.712299333462034,
+    "pref_scale": 0.9685920606922862,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0343",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.9614644193939246,
+    "pref_entropy": 0.6708368134739645,
+    "pref_scale": 0.9105054955187786,
+    "pref_groove": 0.8546854908808541
+  },
+  {
+    "user_id": "user_0344",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.529593839844681,
+    "pref_entropy": 0.6966963010164328,
+    "pref_scale": 1.0,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0345",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.9713959524599665,
+    "pref_entropy": 0.8172931156911439,
+    "pref_scale": 0.47285491070713725,
+    "pref_groove": 0.8021866667110409
+  },
+  {
+    "user_id": "user_0346",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.30234275009244044,
+    "pref_entropy": 0.635341576067997,
+    "pref_scale": 0.7138365729779619,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0347",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.33620991494070307,
+    "pref_entropy": 0.7835371251254764,
+    "pref_scale": 0.7757759009690297,
+    "pref_groove": 0.9829876829977177
+  },
+  {
+    "user_id": "user_0348",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.7694809438148684,
+    "pref_entropy": 0.6449293290309631,
+    "pref_scale": 0.7272261319000002,
+    "pref_groove": 0.7151215027847236
+  },
+  {
+    "user_id": "user_0349",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.7390663395000333,
+    "pref_entropy": 0.7691737215710892,
+    "pref_scale": 0.44871679738856873,
+    "pref_groove": 0.6056061462491131
+  },
+  {
+    "user_id": "user_0350",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.7546931750765205,
+    "pref_scale": 0.6505828320479363,
+    "pref_groove": 0.8597806056432443
+  },
+  {
+    "user_id": "user_0351",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.4135183019980473,
+    "pref_entropy": 0.5918703191020404,
+    "pref_scale": 0.6974975307135254,
+    "pref_groove": 0.9133879289488698
+  },
+  {
+    "user_id": "user_0352",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.6622650091509243,
+    "pref_entropy": 0.4531671209852891,
+    "pref_scale": 0.8433104985459073,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0353",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.5373962893462594,
+    "pref_entropy": 0.8067632711127131,
+    "pref_scale": 0.7717331749645336,
+    "pref_groove": 0.9035854564927434
+  },
+  {
+    "user_id": "user_0354",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.5749796185610557,
+    "pref_entropy": 0.3901040737797088,
+    "pref_scale": 0.8551473939487133,
+    "pref_groove": 0.6649960238522563
+  },
+  {
+    "user_id": "user_0355",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.6931236150625429,
+    "pref_entropy": 0.5241379943607095,
+    "pref_scale": 0.74116386194151,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0356",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.4886273651192424,
+    "pref_entropy": 0.6772041246948197,
+    "pref_scale": 0.8846311769732103,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0357",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.34972933282428226,
+    "pref_entropy": 0.6513506751734432,
+    "pref_scale": 1.0,
+    "pref_groove": 0.9780963964828335
+  },
+  {
+    "user_id": "user_0358",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.12056598834585458,
+    "pref_entropy": 0.6055088811395303,
+    "pref_scale": 0.7861982902375172,
+    "pref_groove": 0.727347887457074
+  },
+  {
+    "user_id": "user_0359",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.8301291646322756,
+    "pref_entropy": 0.7773743432649958,
+    "pref_scale": 0.688907865158741,
+    "pref_groove": 0.6822510785760566
+  },
+  {
+    "user_id": "user_0360",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.030407699759371076,
+    "pref_entropy": 0.4934066835850403,
+    "pref_scale": 1.0,
+    "pref_groove": 0.7793526360510011
+  },
+  {
+    "user_id": "user_0361",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.6230516018918684,
+    "pref_entropy": 0.8288744838547206,
+    "pref_scale": 0.7319829535182946,
+    "pref_groove": 0.8726368504271375
+  },
+  {
+    "user_id": "user_0362",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.6880132480189642,
+    "pref_entropy": 0.6010596597221151,
+    "pref_scale": 0.7942697319276765,
+    "pref_groove": 0.540515325240973
+  },
+  {
+    "user_id": "user_0363",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.6637753831193831,
+    "pref_entropy": 0.5946680100879983,
+    "pref_scale": 0.5305776470490733,
+    "pref_groove": 0.8080958031183587
+  },
+  {
+    "user_id": "user_0364",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.44721180232752367,
+    "pref_entropy": 0.9053882196132814,
+    "pref_scale": 0.5792148940425571,
+    "pref_groove": 0.7930893251521237
+  },
+  {
+    "user_id": "user_0365",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.3727357048713778,
+    "pref_entropy": 0.8528042714271072,
+    "pref_scale": 0.792328111114564,
+    "pref_groove": 0.93546267935399
+  },
+  {
+    "user_id": "user_0366",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.6493918104736985,
+    "pref_entropy": 0.5730030626700456,
+    "pref_scale": 0.8963014078902759,
+    "pref_groove": 0.5171349621868637
+  },
+  {
+    "user_id": "user_0367",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.7046663237893396,
+    "pref_entropy": 0.7812763134004476,
+    "pref_scale": 1.0,
+    "pref_groove": 0.969421038401592
+  },
+  {
+    "user_id": "user_0368",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.3108491130981585,
+    "pref_entropy": 0.5723459741531967,
+    "pref_scale": 0.6250923552112944,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0369",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.29069939859509525,
+    "pref_entropy": 0.4590316471389632,
+    "pref_scale": 1.0,
+    "pref_groove": 0.8710756469678765
+  },
+  {
+    "user_id": "user_0370",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.45502427055876793,
+    "pref_entropy": 0.689292552401197,
+    "pref_scale": 0.5617338376115046,
+    "pref_groove": 0.8473205697294353
+  },
+  {
+    "user_id": "user_0371",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.07250361758688134,
+    "pref_entropy": 0.36615119147173303,
+    "pref_scale": 0.910313238730441,
+    "pref_groove": 0.7562711597347698
+  },
+  {
+    "user_id": "user_0372",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.11913159452765322,
+    "pref_entropy": 0.45705721723244674,
+    "pref_scale": 0.9213738022034973,
+    "pref_groove": 0.9101240521870912
+  },
+  {
+    "user_id": "user_0373",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.8230205453229906,
+    "pref_entropy": 0.8174259626114825,
+    "pref_scale": 0.5732652319884289,
+    "pref_groove": 0.8102340912581578
+  },
+  {
+    "user_id": "user_0374",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.6022039265664422,
+    "pref_entropy": 0.6459028131900711,
+    "pref_scale": 0.8308378777715602,
+    "pref_groove": 0.894427720709652
+  },
+  {
+    "user_id": "user_0375",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.9687580055327227,
+    "pref_entropy": 0.6928179487293695,
+    "pref_scale": 0.6607442398482659,
+    "pref_groove": 0.8743694741004171
+  },
+  {
+    "user_id": "user_0376",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.6998330665296671,
+    "pref_entropy": 0.689563268661816,
+    "pref_scale": 1.0,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0377",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.6250404735772553,
+    "pref_entropy": 1.0,
+    "pref_scale": 0.5451996070481294,
+    "pref_groove": 0.8100950259239522
+  },
+  {
+    "user_id": "user_0378",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.7323094758184432,
+    "pref_entropy": 0.7523750911555055,
+    "pref_scale": 0.6002768932846508,
+    "pref_groove": 0.9084504430218182
+  },
+  {
+    "user_id": "user_0379",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.34309933566045137,
+    "pref_entropy": 0.2670301919946756,
+    "pref_scale": 0.8047753954718689,
+    "pref_groove": 0.9873768007570846
+  },
+  {
+    "user_id": "user_0380",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.7304895991439464,
+    "pref_entropy": 1.0,
+    "pref_scale": 0.6077574342777496,
+    "pref_groove": 0.7987521204384813
+  },
+  {
+    "user_id": "user_0381",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.6040012274833826,
+    "pref_scale": 0.8750667772934775,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0382",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.5903717734337253,
+    "pref_entropy": 0.8258106410146495,
+    "pref_scale": 0.7293767870516028,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0383",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.4316690710964194,
+    "pref_entropy": 0.649701247016901,
+    "pref_scale": 0.8800101276856344,
+    "pref_groove": 0.835596945183807
+  },
+  {
+    "user_id": "user_0384",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.636752076945642,
+    "pref_scale": 0.5080944256220732,
+    "pref_groove": 0.7337110543931333
+  },
+  {
+    "user_id": "user_0385",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.2300256931157703,
+    "pref_entropy": 0.429734922757945,
+    "pref_scale": 0.6767957886050702,
+    "pref_groove": 0.7856898645486144
+  },
+  {
+    "user_id": "user_0386",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.051329604364891535,
+    "pref_entropy": 1.0,
+    "pref_scale": 0.6941591273571601,
+    "pref_groove": 0.9737123509858446
+  },
+  {
+    "user_id": "user_0387",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.5621044796873337,
+    "pref_entropy": 0.45947600114260045,
+    "pref_scale": 0.9390890101633966,
+    "pref_groove": 0.7843383083732622
+  },
+  {
+    "user_id": "user_0388",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.6415163535859622,
+    "pref_entropy": 0.734397119265197,
+    "pref_scale": 1.0,
+    "pref_groove": 0.7906003214701155
+  },
+  {
+    "user_id": "user_0389",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.7980913998846212,
+    "pref_entropy": 0.6684265157810297,
+    "pref_scale": 0.5987003998249758,
+    "pref_groove": 0.8584025915151029
+  },
+  {
+    "user_id": "user_0390",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.629971565057807,
+    "pref_entropy": 1.0,
+    "pref_scale": 0.8214833982491675,
+    "pref_groove": 0.9174895228393639
+  },
+  {
+    "user_id": "user_0391",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.8140058561414978,
+    "pref_entropy": 0.5457855388267104,
+    "pref_scale": 0.8854322698387286,
+    "pref_groove": 0.8223365113769558
+  },
+  {
+    "user_id": "user_0392",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.5681686545148271,
+    "pref_entropy": 0.48835039210826137,
+    "pref_scale": 0.7873366716345641,
+    "pref_groove": 0.9401038068663784
+  },
+  {
+    "user_id": "user_0393",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.6831531486010285,
+    "pref_entropy": 0.38753495577057084,
+    "pref_scale": 0.9979789665870464,
+    "pref_groove": 0.5701682348382817
+  },
+  {
+    "user_id": "user_0394",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.5988694971313286,
+    "pref_entropy": 0.773034514298979,
+    "pref_scale": 0.8222088031454559,
+    "pref_groove": 0.6882906775054428
+  },
+  {
+    "user_id": "user_0395",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.27517666028341453,
+    "pref_entropy": 0.7666645978078107,
+    "pref_scale": 0.4047984709746631,
+    "pref_groove": 0.9726669907918407
+  },
+  {
+    "user_id": "user_0396",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.5417218837225486,
+    "pref_entropy": 0.8004106751888503,
+    "pref_scale": 0.9935761800459457,
+    "pref_groove": 0.945975223443641
+  },
+  {
+    "user_id": "user_0397",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.7526558948617981,
+    "pref_entropy": 1.0,
+    "pref_scale": 0.7748628348198914,
+    "pref_groove": 0.7297798692739186
+  },
+  {
+    "user_id": "user_0398",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.5235459441452651,
+    "pref_entropy": 0.6675321665842828,
+    "pref_scale": 0.6554570333902288,
+    "pref_groove": 0.522205472899764
+  },
+  {
+    "user_id": "user_0399",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.6795870385467842,
+    "pref_entropy": 0.5302174700072879,
+    "pref_scale": 0.7566807045950771,
+    "pref_groove": 0.8196069716871762
+  },
+  {
+    "user_id": "user_0400",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.3306583547404465,
+    "pref_entropy": 0.4434433746298613,
+    "pref_scale": 0.7975577514946676,
+    "pref_groove": 0.7700210416730602
+  },
+  {
+    "user_id": "user_0401",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.44823898170088583,
+    "pref_entropy": 0.6530321794798015,
+    "pref_scale": 0.861610415749537,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0402",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.5447785348633662,
+    "pref_entropy": 0.7439570608502949,
+    "pref_scale": 0.774607057925236,
+    "pref_groove": 0.905210489358556
+  },
+  {
+    "user_id": "user_0403",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.321053980477207,
+    "pref_entropy": 0.609835176069898,
+    "pref_scale": 0.8179911672089277,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0404",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.521538190475774,
+    "pref_entropy": 0.6661514945172896,
+    "pref_scale": 0.7371587865793131,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0405",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.8875316454517832,
+    "pref_entropy": 0.9020004585632299,
+    "pref_scale": 0.8288481837144791,
+    "pref_groove": 0.8110151778861678
+  },
+  {
+    "user_id": "user_0406",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.3542125975909654,
+    "pref_entropy": 0.5665252580876787,
+    "pref_scale": 0.6772197423119839,
+    "pref_groove": 0.8427467197954636
+  },
+  {
+    "user_id": "user_0407",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.5575291654884349,
+    "pref_entropy": 0.9744153350138339,
+    "pref_scale": 0.6286017096420449,
+    "pref_groove": 0.8239293596471103
+  },
+  {
+    "user_id": "user_0408",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.7483110669632442,
+    "pref_entropy": 0.6439506882603744,
+    "pref_scale": 0.6739092884109281,
+    "pref_groove": 0.7609145241969546
+  },
+  {
+    "user_id": "user_0409",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.5977453487279004,
+    "pref_entropy": 0.5726372796690692,
+    "pref_scale": 0.9046613950312521,
+    "pref_groove": 0.7484993795127979
+  },
+  {
+    "user_id": "user_0410",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.7242407341179854,
+    "pref_entropy": 0.3899260468274498,
+    "pref_scale": 0.8011429035332439,
+    "pref_groove": 0.7470740696423719
+  },
+  {
+    "user_id": "user_0411",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.0,
+    "pref_entropy": 0.6815365250760315,
+    "pref_scale": 0.8096475180377766,
+    "pref_groove": 0.8613774351896293
+  },
+  {
+    "user_id": "user_0412",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.5655036659027187,
+    "pref_entropy": 0.9516039282529632,
+    "pref_scale": 0.48374487158644136,
+    "pref_groove": 0.8983593244475707
+  },
+  {
+    "user_id": "user_0413",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.25530862768085816,
+    "pref_entropy": 0.7378251025713363,
+    "pref_scale": 0.5720896152900881,
+    "pref_groove": 0.9412663104211287
+  },
+  {
+    "user_id": "user_0414",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.6958099446255284,
+    "pref_entropy": 0.9547139359500599,
+    "pref_scale": 0.7702392859243309,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0415",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.3164041870765213,
+    "pref_entropy": 0.3531225758986495,
+    "pref_scale": 1.0,
+    "pref_groove": 0.8296287952381353
+  },
+  {
+    "user_id": "user_0416",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.4773442132665935,
+    "pref_entropy": 0.5436759170471673,
+    "pref_scale": 1.0,
+    "pref_groove": 0.9222675561791925
+  },
+  {
+    "user_id": "user_0417",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.5340546534083667,
+    "pref_entropy": 0.6907835551527383,
+    "pref_scale": 1.0,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0418",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.10735374845994551,
+    "pref_entropy": 0.12458920187461914,
+    "pref_scale": 0.8323264035136835,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0419",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.6638167296276258,
+    "pref_entropy": 0.970437380604133,
+    "pref_scale": 0.7443140929847327,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0420",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.5676837978977762,
+    "pref_entropy": 0.7852435064089046,
+    "pref_scale": 1.0,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0421",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.32133277956060224,
+    "pref_entropy": 0.7093363733344173,
+    "pref_scale": 0.7444101388555908,
+    "pref_groove": 0.9427945180164612
+  },
+  {
+    "user_id": "user_0422",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.2518189988648877,
+    "pref_entropy": 0.5570747044968044,
+    "pref_scale": 0.5827700557474514,
+    "pref_groove": 0.818646835052296
+  },
+  {
+    "user_id": "user_0423",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.6181236121043383,
+    "pref_scale": 0.7694615664724163,
+    "pref_groove": 0.8328665900051615
+  },
+  {
+    "user_id": "user_0424",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.5406873306265982,
+    "pref_entropy": 0.48403748166442784,
+    "pref_scale": 0.9000750097550444,
+    "pref_groove": 0.8794456625386533
+  },
+  {
+    "user_id": "user_0425",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.6157880232255013,
+    "pref_entropy": 0.5503488140889027,
+    "pref_scale": 0.9054970244128884,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0426",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.7587177487630725,
+    "pref_entropy": 0.7326519647177654,
+    "pref_scale": 0.7378884891068637,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0427",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.5069004120879911,
+    "pref_entropy": 0.8247548157259186,
+    "pref_scale": 0.5631609132578167,
+    "pref_groove": 0.6044999316871689
+  },
+  {
+    "user_id": "user_0428",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.7969734306588655,
+    "pref_entropy": 1.0,
+    "pref_scale": 0.5014567235402385,
+    "pref_groove": 0.8433668015386561
+  },
+  {
+    "user_id": "user_0429",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.7033164201658244,
+    "pref_entropy": 0.6537286255626904,
+    "pref_scale": 0.7049317696773373,
+    "pref_groove": 0.991261163069884
+  },
+  {
+    "user_id": "user_0430",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.7314683468254403,
+    "pref_entropy": 0.5416637743456338,
+    "pref_scale": 0.6107344842028415,
+    "pref_groove": 0.9075669919220561
+  },
+  {
+    "user_id": "user_0431",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.5268287015197382,
+    "pref_entropy": 0.7157080628457348,
+    "pref_scale": 0.8521968079659117,
+    "pref_groove": 0.6273426786404804
+  },
+  {
+    "user_id": "user_0432",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.6705971813547095,
+    "pref_entropy": 0.5624608682005106,
+    "pref_scale": 0.7989936326347701,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0433",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.9542491591870526,
+    "pref_entropy": 0.9117545844369199,
+    "pref_scale": 0.9159168572729703,
+    "pref_groove": 0.6810676588257365
+  },
+  {
+    "user_id": "user_0434",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.6624669057152178,
+    "pref_entropy": 1.0,
+    "pref_scale": 0.6036708021198594,
+    "pref_groove": 0.82200450397605
+  },
+  {
+    "user_id": "user_0435",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.6643897565396,
+    "pref_entropy": 0.7986047445084357,
+    "pref_scale": 0.7094386884030855,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0436",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.46814053199639,
+    "pref_entropy": 0.9017613065418776,
+    "pref_scale": 0.7929754678607897,
+    "pref_groove": 0.7796768112735534
+  },
+  {
+    "user_id": "user_0437",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.47765460353490546,
+    "pref_entropy": 0.3461872875019281,
+    "pref_scale": 0.8713387083418517,
+    "pref_groove": 0.8438729586014725
+  },
+  {
+    "user_id": "user_0438",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.4845000859078725,
+    "pref_entropy": 0.7138842124436884,
+    "pref_scale": 0.7631431995747776,
+    "pref_groove": 0.6115625097877659
+  },
+  {
+    "user_id": "user_0439",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.44886381839808803,
+    "pref_entropy": 0.5867933296235934,
+    "pref_scale": 0.8507378731293768,
+    "pref_groove": 0.9527921895336071
+  },
+  {
+    "user_id": "user_0440",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.353041816292479,
+    "pref_entropy": 0.3402563918622898,
+    "pref_scale": 0.6471002937420868,
+    "pref_groove": 0.7608323836408859
+  },
+  {
+    "user_id": "user_0441",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.5966828745331567,
+    "pref_entropy": 0.9989248937905044,
+    "pref_scale": 0.7831056600717853,
+    "pref_groove": 0.8258790174384635
+  },
+  {
+    "user_id": "user_0442",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.5207059354601132,
+    "pref_entropy": 0.5804892980532921,
+    "pref_scale": 0.8235569205289471,
+    "pref_groove": 0.7749939661806848
+  },
+  {
+    "user_id": "user_0443",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.39075916963900803,
+    "pref_entropy": 0.6121187444582968,
+    "pref_scale": 0.6978417259077982,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0444",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.4154078767912635,
+    "pref_entropy": 0.7185876139513967,
+    "pref_scale": 0.6312435974148608,
+    "pref_groove": 0.8193557000047245
+  },
+  {
+    "user_id": "user_0445",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.5886501593511254,
+    "pref_entropy": 0.6365514863057138,
+    "pref_scale": 0.7258825287706285,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0446",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.5393403865224058,
+    "pref_entropy": 0.643990535472114,
+    "pref_scale": 0.834797268802735,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0447",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.12016308721704722,
+    "pref_entropy": 0.728014308227236,
+    "pref_scale": 0.820899458411507,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0448",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.4395386016402454,
+    "pref_entropy": 0.4102970352365912,
+    "pref_scale": 1.0,
+    "pref_groove": 0.9997466850378927
+  },
+  {
+    "user_id": "user_0449",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.8201747155309216,
+    "pref_entropy": 0.8488761278221888,
+    "pref_scale": 0.8812521726360345,
+    "pref_groove": 0.9212196476958376
+  },
+  {
+    "user_id": "user_0450",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.8651984436603642,
+    "pref_entropy": 0.6217604736050996,
+    "pref_scale": 0.8620108406262519,
+    "pref_groove": 0.9077675776798431
+  },
+  {
+    "user_id": "user_0451",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.30855433751924966,
+    "pref_entropy": 0.9100599692192923,
+    "pref_scale": 0.8331337055919059,
+    "pref_groove": 0.6183433969977421
+  },
+  {
+    "user_id": "user_0452",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.37925502787211585,
+    "pref_entropy": 0.5224225374290897,
+    "pref_scale": 0.7177750466046131,
+    "pref_groove": 0.8992645721013268
+  },
+  {
+    "user_id": "user_0453",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.7079458036752495,
+    "pref_entropy": 0.5703346432941578,
+    "pref_scale": 0.9283666824905911,
+    "pref_groove": 0.7408491467715663
+  },
+  {
+    "user_id": "user_0454",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.7845933042159667,
+    "pref_entropy": 0.7320441643194936,
+    "pref_scale": 0.760326859692578,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0455",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.7672020083847446,
+    "pref_entropy": 0.4543592623814992,
+    "pref_scale": 0.9179400394000656,
+    "pref_groove": 0.8478740435137986
+  },
+  {
+    "user_id": "user_0456",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.18415295872395132,
+    "pref_entropy": 0.532972115135801,
+    "pref_scale": 1.0,
+    "pref_groove": 0.4538653480984441
+  },
+  {
+    "user_id": "user_0457",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.7227172409287637,
+    "pref_entropy": 0.7165584458661545,
+    "pref_scale": 0.9761131391749933,
+    "pref_groove": 0.662611290910636
+  },
+  {
+    "user_id": "user_0458",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.8679814830974343,
+    "pref_entropy": 0.8931121332919136,
+    "pref_scale": 0.8560282847189128,
+    "pref_groove": 0.5393998055428353
+  },
+  {
+    "user_id": "user_0459",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.9067834063499974,
+    "pref_entropy": 0.8076796852821628,
+    "pref_scale": 0.6247323710782702,
+    "pref_groove": 0.5441301678173849
+  },
+  {
+    "user_id": "user_0460",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.5831231948219572,
+    "pref_entropy": 0.46848393281822326,
+    "pref_scale": 1.0,
+    "pref_groove": 0.5878545235257607
+  },
+  {
+    "user_id": "user_0461",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.48066643980886764,
+    "pref_entropy": 0.8136590906791519,
+    "pref_scale": 0.8919278004640238,
+    "pref_groove": 0.6174771740968903
+  },
+  {
+    "user_id": "user_0462",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.3551502794715188,
+    "pref_entropy": 0.9443749547351417,
+    "pref_scale": 0.6627326949911919,
+    "pref_groove": 0.6739180053386541
+  },
+  {
+    "user_id": "user_0463",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.9246147524769439,
+    "pref_entropy": 1.0,
+    "pref_scale": 0.5844853163564574,
+    "pref_groove": 0.7141420946210036
+  },
+  {
+    "user_id": "user_0464",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.5926455988742945,
+    "pref_entropy": 0.7259459878432755,
+    "pref_scale": 0.7496276956923366,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0465",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.6030598693788374,
+    "pref_entropy": 0.8199811288917904,
+    "pref_scale": 0.6332629625729673,
+    "pref_groove": 0.9746261631940305
+  },
+  {
+    "user_id": "user_0466",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.3239883383241371,
+    "pref_entropy": 0.7451579083425794,
+    "pref_scale": 0.796081440261216,
+    "pref_groove": 0.9684617302484271
+  },
+  {
+    "user_id": "user_0467",
+    "archetype": "Jazz Enthusiast",
+    "preferred_genres": [
+      "jazz"
+    ],
+    "pref_complexity": 0.371511744253217,
+    "pref_entropy": 1.0,
+    "pref_scale": 0.7437578729763064,
+    "pref_groove": 0.907749146527662
+  },
+  {
+    "user_id": "user_0468",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.4553776698689225,
+    "pref_entropy": 0.846797560786092,
+    "pref_scale": 0.7981178588899026,
+    "pref_groove": 0.9291077915408811
+  },
+  {
+    "user_id": "user_0469",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.7776936557525819,
+    "pref_entropy": 0.6400647602151163,
+    "pref_scale": 1.0,
+    "pref_groove": 0.9497008592982604
+  },
+  {
+    "user_id": "user_0470",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.5106880624866339,
+    "pref_entropy": 0.4559738562193857,
+    "pref_scale": 0.6456457684204404,
+    "pref_groove": 0.7622809524875138
+  },
+  {
+    "user_id": "user_0471",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.6602569000541024,
+    "pref_entropy": 0.7906181334382777,
+    "pref_scale": 1.0,
+    "pref_groove": 0.6280833665290414
+  },
+  {
+    "user_id": "user_0472",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.45399317429594477,
+    "pref_entropy": 0.901070000470974,
+    "pref_scale": 0.7504217444539343,
+    "pref_groove": 0.9158785610069888
+  },
+  {
+    "user_id": "user_0473",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.807471814367889,
+    "pref_entropy": 0.7001024228436223,
+    "pref_scale": 0.8673195002297189,
+    "pref_groove": 0.731365092749867
+  },
+  {
+    "user_id": "user_0474",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.5051041116608348,
+    "pref_entropy": 0.6667058902760079,
+    "pref_scale": 0.7231360072475765,
+    "pref_groove": 0.9593729671643886
+  },
+  {
+    "user_id": "user_0475",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.752129428699826,
+    "pref_entropy": 0.7573767353106805,
+    "pref_scale": 0.8792144292815406,
+    "pref_groove": 0.8841970781360808
+  },
+  {
+    "user_id": "user_0476",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.5846650525118966,
+    "pref_entropy": 0.35781609240965206,
+    "pref_scale": 0.7248515431762627,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0477",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.36460450191835425,
+    "pref_entropy": 0.7116278565472551,
+    "pref_scale": 0.9632319125304842,
+    "pref_groove": 0.8900227594443103
+  },
+  {
+    "user_id": "user_0478",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.42546019623230324,
+    "pref_entropy": 0.6726146538430688,
+    "pref_scale": 0.601506331117198,
+    "pref_groove": 0.8447488584990646
+  },
+  {
+    "user_id": "user_0479",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.6174310602422859,
+    "pref_entropy": 0.6353311645637351,
+    "pref_scale": 0.8112079270255134,
+    "pref_groove": 0.9326196358410495
+  },
+  {
+    "user_id": "user_0480",
+    "archetype": "Pop Lover",
+    "preferred_genres": [
+      "pop"
+    ],
+    "pref_complexity": 0.30107677003619127,
+    "pref_entropy": 0.1870283512443373,
+    "pref_scale": 0.874073443596022,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0481",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.6789102748124622,
+    "pref_entropy": 0.4113197766136668,
+    "pref_scale": 0.9097070378862488,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0482",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.6544186222397536,
+    "pref_entropy": 0.7308473070042676,
+    "pref_scale": 0.6285471031889407,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0483",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.6787561245660597,
+    "pref_entropy": 0.6374423060226182,
+    "pref_scale": 0.5820680807425247,
+    "pref_groove": 0.8409705216045407
+  },
+  {
+    "user_id": "user_0484",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.8727784875018337,
+    "pref_entropy": 0.7397162966466969,
+    "pref_scale": 0.9413086106998523,
+    "pref_groove": 0.8272428349634156
+  },
+  {
+    "user_id": "user_0485",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 1.0,
+    "pref_entropy": 0.9586052458067338,
+    "pref_scale": 0.8308295500109466,
+    "pref_groove": 0.7027369903208837
+  },
+  {
+    "user_id": "user_0486",
+    "archetype": "Classical Purist",
+    "preferred_genres": [
+      "classical"
+    ],
+    "pref_complexity": 0.959775794857158,
+    "pref_entropy": 0.9178925118229269,
+    "pref_scale": 0.7625518621389871,
+    "pref_groove": 0.674461894430558
+  },
+  {
+    "user_id": "user_0487",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.5636100292277677,
+    "pref_entropy": 0.6559170572361109,
+    "pref_scale": 0.5346135714197209,
+    "pref_groove": 0.702627627535874
+  },
+  {
+    "user_id": "user_0488",
+    "archetype": "Rock Aficionado",
+    "preferred_genres": [
+      "rock"
+    ],
+    "pref_complexity": 0.9864639454392099,
+    "pref_entropy": 0.9961874375924165,
+    "pref_scale": 0.7227826396128725,
+    "pref_groove": 0.8840494496203027
+  },
+  {
+    "user_id": "user_0489",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.30669477916684285,
+    "pref_entropy": 0.6874106374760797,
+    "pref_scale": 0.9745310385761395,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0490",
+    "archetype": "Eclectic Listener",
+    "preferred_genres": [
+      "classical",
+      "jazz",
+      "pop"
+    ],
+    "pref_complexity": 0.1972268203417043,
+    "pref_entropy": 0.7217595618939072,
+    "pref_scale": 0.8689763532328016,
+    "pref_groove": 0.8316914301818084
+  },
+  {
+    "user_id": "user_0491",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.3927978984514352,
+    "pref_entropy": 0.6781919857520722,
+    "pref_scale": 0.848251781206475,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0492",
+    "archetype": "Rhythm Focused",
+    "preferred_genres": [
+      "electronic",
+      "rock"
+    ],
+    "pref_complexity": 0.7143286561720351,
+    "pref_entropy": 0.37888018019368414,
+    "pref_scale": 0.7121108490023368,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0493",
+    "archetype": "Electronic Explorer",
+    "preferred_genres": [
+      "electronic"
+    ],
+    "pref_complexity": 0.615515719396216,
+    "pref_entropy": 1.0,
+    "pref_scale": 0.7416037692947013,
+    "pref_groove": 0.946658153122443
+  },
+  {
+    "user_id": "user_0494",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.23386422846676316,
+    "pref_entropy": 0.4026419877900486,
+    "pref_scale": 0.8036950959082625,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0495",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.08269947612334447,
+    "pref_entropy": 0.28604453237795696,
+    "pref_scale": 0.6843397170367863,
+    "pref_groove": 0.9707313570627308
+  },
+  {
+    "user_id": "user_0496",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.0,
+    "pref_entropy": 0.3870895460813661,
+    "pref_scale": 0.9274519309592192,
+    "pref_groove": 0.8509955680220455
+  },
+  {
+    "user_id": "user_0497",
+    "archetype": "Folk Fan",
+    "preferred_genres": [
+      "folk"
+    ],
+    "pref_complexity": 0.4474537482304217,
+    "pref_entropy": 0.4672126970813666,
+    "pref_scale": 0.9271594114156624,
+    "pref_groove": 1.0
+  },
+  {
+    "user_id": "user_0498",
+    "archetype": "Complex Compositions",
+    "preferred_genres": [
+      "classical",
+      "jazz"
+    ],
+    "pref_complexity": 0.9011820277042093,
+    "pref_entropy": 0.7511583421777245,
+    "pref_scale": 0.6753497191171912,
+    "pref_groove": 0.7818140029611264
+  },
+  {
+    "user_id": "user_0499",
+    "archetype": "Simple Melodies",
+    "preferred_genres": [
+      "folk",
+      "pop"
+    ],
+    "pref_complexity": 0.017407596166928108,
+    "pref_entropy": 0.4239193760206194,
+    "pref_scale": 0.8160818726762173,
+    "pref_groove": 0.9770421696346645
+  }
+]

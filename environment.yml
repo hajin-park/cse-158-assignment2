@@ -1,0 +1,14 @@
+name: cse-158-assignment2
+channels:
+  - defaults
+dependencies:
+  - scikit-learn
+  - python=3.11
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - jupyter
+  - pyzmq[version='<25']
+  - jupyter_client[version='<8']
