@@ -347,3 +347,35 @@ Running our hybrid recommender... The top 5 recommended users are:
 
 As you can see, the system identifies users with high groove/rhythm preferences (matching the march's regular rhythm) and classical purists (matching the genre)."
 
+---
+
+## VISUALIZATION MAPPING
+
+| Slide | Title | Visualization File |
+|-------|-------|-------------------|
+| 1 | Title | *Text only* |
+| 2 | Agenda | *Text only* |
+| 3 | Problem Statement | *Text only* |
+| 4 | Cold-Start Challenge | `cold_start_diagram.png` |
+| 5 | System Architecture | `system_architecture.png` |
+| 6 | PDMX Dataset Overview | `dataset_statistics.png` |
+| 7 | Feature Selection | `feature_selection_table.png` |
+| 8a | Feature Distributions | `feature_distributions.png` |
+| 8b | Genre Distribution | `genre_distribution.png` |
+| 9 | User Archetypes | `user_archetypes.png` |
+| 10 | Model Overview | `model_overview.png` |
+| 11 | Content-Based Filtering | `content_based_diagram.png` |
+| 12 | k-NN Item-Based | `knn_diagram.png` |
+| 13 | Matrix Factorization | `svd_diagram.png` |
+| 14 | Hybrid Model | `hybrid_architecture.png` |
+| 15 | Evaluation Metrics | `metrics_definitions.png` |
+| 16 | Train/Test Split | `train_test_split.png` |
+| 17 | Results Table | `results_table.png` |
+| 18 | Performance Charts | `model_comparison_map10.png`, `ndcg_vs_k.png`, `coverage_hitrate.png` |
+| 19 | Statistical Significance | `ttest_results.png` |
+| 20 | Related Work | *Text only* |
+| 21 | Conclusions | *Text only* |
+
+**All files located in:** `results/diagrams/`
+
+**Generation:** Run `python generate_presentation_diagrams.py` to regenerate diagrams.

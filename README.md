@@ -23,6 +23,7 @@ cse-158-assignment2/
 ├── submission/
 │   └── video_url.txt
 ├── video_script.md
+├── generate_presentation_diagrams.py
 ├── workbook.ipynb
 └── workbook.py
 ```
