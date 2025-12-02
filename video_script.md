@@ -296,6 +296,8 @@ def evaluate_recommender(recommender, test_ground_truth, k_values=[5, 10, 20, 50
 2. MF achieves 79% improvement over Random (0.1427 vs 0.0795)
 3. Hybrid: 59% improvement + 94.8% coverage (vs Popularity's 10%)"
 
+Code on next slide...
+
 ### SLIDE 17: Statistical Significance
 
 **[T-TEST RESULTS - see results/diagrams/ttest_results.png]**
@@ -310,6 +312,8 @@ def evaluate_recommender(recommender, test_ground_truth, k_values=[5, 10, 20, 50
 | MF vs Content-Based | < 0.01 | Significant |
 
 **Conclusion:** All improvements are statistically significant (p < 0.05), not due to chance."
+
+Code on the next slide... Explain that the tests were made by comparing the results from the recommendation with another from a diff model.
 
 ---
 
